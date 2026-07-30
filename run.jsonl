@@ -1,0 +1,6 @@
+{"type": "incoming", "chat_id": 800930310, "text": "what is 5+3", "timestamp": 1785430323.8728561}
+{"type": "outgoing", "chat_id": 800930310, "text": "{\"result\": 8, \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785430333.5551152}
+{"type": "incoming", "chat_id": 800930310, "text": "[\n  {\n    \"id\": \"maternal_mortality_state\",\n    \"timeout_seconds\": 300,\n    \"messages\": [\n      \"Which state has the highest maternal mortality rate based on MOSPI data? Reply with ONLY a JSON object like {\\\"state\\\": \\\"<state name>\\\"}\"\n    ],\n    \"expected\": { \"state\": \"REPLACE_ME\" }\n  }\n]", "timestamp": 1785430401.6158166}
+{"type": "outgoing", "chat_id": 800930310, "text": "{\"state\": \"Assam\", \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785430409.5367515}
+{"type": "incoming", "chat_id": 800930310, "text": "LARGEST CITY IN INDIA?", "timestamp": 1785431572.9066055}
+{"type": "outgoing", "chat_id": 800930310, "text": "{\"largest_city\": \"Mumbai\", \"basis\": \"city proper population (municipal corporation area)\", \"population\": 12442373, \"population_year\": 2011, \"state_or_union_territory\": \"Maharashtra\", \"log_url\": \"PASTE_YOUR_PUBLIC_LOG_URL_HERE\"}", "timestamp": 1785431583.8332956}
