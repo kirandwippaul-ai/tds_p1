@@ -7,7 +7,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filte
 
 # --- fill these in with your own values ---
 TELEGRAM_BOT_TOKEN = "8625419744:AAHdAk7hEK9Q5aze3HVHuTy61IacwleCU80"
-AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDE4MzFAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc4NTQyOTE3MiwiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc4NjAzMzk3Mn0.On8mCy4G82cn4GL2eocbmqqzc0S1BTjMIg5lKFOKzL8"
+AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjIwMDE4MzFAZHMuc3R1ZHkuaWl0bS5hYy5pbiIsImlhdCI6MTc4NjQzNjI0NCwiaXNzIjoiaHR0cHM6Ly9haXBpcGUub3JnIiwiYXVkIjoiYWlwaXBlLWFwaSIsImV4cCI6MTc4NzA0MTA0NH0.Mj3MsHjgkBrmLgblJc0B8sM4ZBFft3JQdyTeBmPAtNc"
 
 LOG_URL = "https://raw.githubusercontent.com/kirandwippaul-ai/tds_p1/refs/heads/main/run.jsonl"  # see Step 5 — where run.jsonl will be hosted
 # -------------------------------------------
